@@ -123,8 +123,6 @@ Alguns fatores que mais impactam o preço:
 ## 👨‍💻 Autor
 
 **Luis Gustavo**  
-Estudante de Ciência de Dados
-
 ---
 
 ## 🚀 Como Executar o Projeto
